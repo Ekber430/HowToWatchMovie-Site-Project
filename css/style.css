@@ -29,7 +29,7 @@ header{
 
 .header-main-div{
     display: flex;
-    width: 75%;
+    width: 91%;
     justify-content: space-between;
 }
 
@@ -74,27 +74,9 @@ h1{
     font-size: 30px;
 }
 
-.shadow-position{
-    position: relative;
-    margin-right: 100px;
-}
-
 .person-image{
-    position: absolute;
-    z-index: 1;
     width: 404px;
     height: 480px;
-}
-
-.image-shadow{
-    position: absolute;
-    bottom: -78px;
-    left: 20px;
-    z-index: 0;
-    background-color: #EFEFEF;
-    width: 374px;
-    height: 50px;
-    clip-path: ellipse(49% 50% at 50% 50%);
 }
 
 .center-div{
