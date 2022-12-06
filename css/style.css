@@ -23,6 +23,10 @@ header{
     font-weight: 700;
 }
 
+.header-margin{
+    margin-left: 90px;
+}
+
 .header-main-div{
     display: flex;
     width: 75%;

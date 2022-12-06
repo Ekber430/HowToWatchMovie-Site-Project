@@ -1,0 +1,47 @@
+/* This section is about format section */
+
+#format-section{
+    width: 90%;
+    height: 75vh;
+    margin-left: 90px;
+}
+
+.format-main-div{
+    display: flex;
+}
+
+.format-div{
+    margin-top: 100px;
+    width: 400px;
+    height: 200px;
+}
+
+.format-header{
+    color: #1E4681;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.format-text{
+    font-size: 25px;
+}
+
+.format-margin{
+    margin-left: 50px;
+}
+
+#what-do-we-know-section{
+    width: 90%;
+    margin-left: 90px;
+    height: 100vh;
+}
+
+.we-know-list{
+    margin-top: 80px;
+    width: 800px;
+}
+
+.we-know-li{
+    font-size: 25px;
+    font-weight: 400;
+}
