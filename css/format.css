@@ -2,7 +2,7 @@
 
 #format-section{
     width: 90%;
-    height: 75vh;
+    height: 600px;
     margin-left: 90px;
 }
 
@@ -33,7 +33,7 @@
 #what-do-we-know-section{
     width: 90%;
     margin-left: 90px;
-    height: 100vh;
+    height: 800px;
 }
 
 .we-know-list{
