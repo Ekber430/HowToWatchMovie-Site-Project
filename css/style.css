@@ -34,7 +34,10 @@ header{
 .header-main-div{
     display: flex;
     width: 91%;
-    justify-content: space-between;
+}
+
+.header-div{
+    width: 1150px;
 }
 
 .sync-image{

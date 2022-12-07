@@ -1,2 +1,51 @@
 /* This section is about course information */
 
+#course-information{
+    background-color: #9DC9C8;
+    width: 100%;
+    height: 950px;
+}
+
+.information-main-div{
+    width: 100%;
+    height: 100%;
+    padding-top: 100px;
+}
+
+.information-div{
+    width: 1200px;
+    height: 450px;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+.information-header{
+    font-size: 30px;
+    margin-top: 60px;
+    font-weight: 400;
+}
+
+.course-price{
+    display: inline;
+    font-size: 85px;
+}
+
+.information-description-div{
+    display: flex;
+    width: 1200px;
+    height: 400px;
+    margin-left: 100px;
+}
+
+.information-description{
+    width: 380px;
+}
+
+.description-margin{
+    margin-left: 80px;
+}
+
+.description-text{
+    font-size: 23px;
+    line-height: 1;
+}

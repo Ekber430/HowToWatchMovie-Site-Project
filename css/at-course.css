@@ -12,16 +12,19 @@
 
 .course-text-flex{
     display: flex;
-    justify-content: space-between;
     height: 500px;
 }
 
 .course-text-div{
-    width: 680px;
+    width: 1080px;
     height: 400px;
     font-size: 25px;
     line-height: 1.7;
     margin-top: 40px;
+}
+
+.course-text-width{
+    width: 680px;
 }
 
 .person-2-image{
