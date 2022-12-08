@@ -6,6 +6,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body{
@@ -110,4 +111,83 @@ h1{
     color: #ffffff;
     text-align: right;
     font-size: 20px;
+}
+
+@media screen and (min-width:320px) and (max-width:991px){
+    
+    html,body{
+        width: 1800px;
+    }
+
+    header{
+        width: 100%;
+        height: 2100px;
+    }
+
+    h1{
+        font-size: 140px !important;
+        line-height: 1 !important;
+    }
+
+    .sync-image{
+        margin-top: 80px;
+        width: 182px !important;
+        height: 106px !important;
+    }
+
+    .header-main-div{
+        display: block;
+        width: 1200px;
+    }
+
+    .header-description{
+        margin-left: 90px;
+        margin-top: 50px !important;
+        font-size: 40px;
+    }
+
+    .person-image-div{
+        text-align: right;
+    }
+
+    .person-image{
+        width: 494px !important;
+        height: 580px !important;
+    }
+
+    .icon{
+        margin-top: 10px;
+        width: 37px;
+        height: 36px;
+    }
+
+    .icon-text{
+        margin-left: 12px;
+        font-size: 35px;
+    }
+
+    .center-div{
+        display: flex;
+        height: 500px;
+        justify-content: left;
+    }
+
+    .quote-div{
+        background-color: #1E4681;
+        margin-left: 90px;
+        margin-top: 100px;
+        width: 820px;
+        height: 340px;
+        padding: 40px;
+        border-radius: 5px;
+    }
+
+    .quote-text{
+        font-size: 43px;
+    }
+
+    .quote-author{
+        font-size: 37px;
+    }
+
 }
