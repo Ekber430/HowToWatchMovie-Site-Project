@@ -164,3 +164,19 @@
         padding-left: 25px;
     }
 }
+
+@media screen and (min-width:992px) and (max-width:1279px) {
+    .course-text-flex{
+        width: 1380px;
+    }
+
+    .course-text-div{
+        height: 500px;
+        width: 1000px !important;
+    }
+
+    .person-2-image{
+        width: 400px;
+        height: 390px;
+    }
+}
