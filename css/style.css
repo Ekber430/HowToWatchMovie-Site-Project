@@ -116,7 +116,7 @@ h1{
 @media screen and (min-width:320px) and (max-width:991px){
     
     html,body{
-        width: 1425px;
+        width: 1475px;
     }
 
     header{
@@ -193,6 +193,6 @@ h1{
 
 @media screen and (min-width:992px) and (max-width:1279px) {
     html, body{
-        width: 1695px;
+        width: 1700px;
     }
 }
